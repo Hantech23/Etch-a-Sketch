@@ -1,4 +1,4 @@
-h1 {
+body {
     text-align: center;
 }
 
@@ -15,8 +15,4 @@ h1 {
     height: 30rem;
     width: 30rem;
     grid-template-columns: repeat(16, auto);
-}
-
-.grid div {
-    border: 1px solid black;
 }
